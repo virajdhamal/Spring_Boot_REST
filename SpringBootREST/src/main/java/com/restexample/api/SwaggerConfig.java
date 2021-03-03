@@ -21,7 +21,7 @@ public class SwaggerConfig {
 			"Ranga Karanam", "http://www.in28minutes.com", "in28minutes@gmail.com");
 	
 	public static final ApiInfo DEFAULT_API_INFO = new ApiInfo(
-			"Awesome API Title", "Awesome API Description", "1.0",
+			"API Title", "Awesome API Description", "1.0",
 			"urn:tos", DEFAULT_CONTACT, 
 			"Apache 2.0", "http://www.apache.org/licenses/LICENSE-2.0", Arrays.asList());
 
